@@ -13,7 +13,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aaron-toomey/"><img src="https://img.shields.io/badge/-Aaron-Toomey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aaron-toomey/"><img src="https://img.shields.io/badge/-Aaron%20Toomey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/inkiebeard"><img src="https://img.shields.io/badge/-InkieBeard-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/inkiebeard"><img src="https://img.shields.io/badge/-InkieBeard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
