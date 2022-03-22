@@ -4,15 +4,17 @@
 ## Details At A Glance
 
 * Developing Profesisonally since: 2010
-* Currently working for: [UltraCommerce](https://github.com/ultracommerce)
+* Current Role: Tech Lead
+* Current Company: [UltraCommerce](https://github.com/ultracommerce)
 * Personal Projects: 
-* * Galliventurer - RTS space based games
-* * 3D Animations - check my instagram / twitter below 
+  * Galliventurer - RTS space based game
+  * 3D Animations - check out my instagram / twitter below 
 * Email: [aaron@inkiebeard.codes](mailto:aaron@inkiebeard.codes)
 
-### :link: &nbsp;Connect with me
+### Connect with me
 
 <p align="center">
+  <a href="https://www.inkiebeard.com"><img src="https://img.shields.io/badge/-inkeibeard.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aaron-toomey/"><img src="https://img.shields.io/badge/-Aaron%20Toomey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/inkiebeard"><img src="https://img.shields.io/badge/-InkieBeard-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/inkiebeard"><img src="https://img.shields.io/badge/-InkieBeard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
