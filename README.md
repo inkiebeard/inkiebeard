@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Aaron "Inkie Beard" Toomey</h1>
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" /></p>
 
+<h3 align="center"><a href="https://www.inkiebeard.com/cv.html" target="_blank" title="Full CV/Resume">&nbsp;Full CV/Resume&nbsp;</a></h3>
+
 ## Details At A Glance
 
 * Current Role: Senior Software Engineer
