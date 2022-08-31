@@ -3,13 +3,14 @@
 
 ## Details At A Glance
 
-* Developing Profesisonally since: 2010
-* Current Role: Tech Lead
-* Current Company: [UltraCommerce](https://github.com/ultracommerce)
+* Current Role: Senior Software Engineer
+* Current Company: [Luxuery Escapes](https://github.com/lux-group)
+* Email: [aaron@inkiebeard.codes](mailto:aaron@inkiebeard.codes)
 * Personal Projects: 
   * Galliventurer - RTS space based game
   * 3D Animations - check out my instagram / twitter below 
-* Email: [aaron@inkiebeard.codes](mailto:aaron@inkiebeard.codes)
+* Developing Profesisonally since: 2010
+
 
 ### Connect with me
 
