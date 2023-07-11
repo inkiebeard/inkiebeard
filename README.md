@@ -9,7 +9,7 @@
 * Current Company: [Luxuery Escapes](https://github.com/lux-group)
 * Email: [aaron@inkiebeard.codes](mailto:aaron@inkiebeard.codes)
 * Personal Projects: 
-  * Galliventurer - RTS space based game
+  * Galliventurer - Space simulation/game
   * 3D Animations - check out my instagram / twitter below 
 * Developing Profesisonally since: 2010
 
